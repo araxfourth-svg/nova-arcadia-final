@@ -1,0 +1,17 @@
+LA CIUDAD QUE DORMÍA — NOVA ARCADIA 2087
+
+IMPORTANTE: Esta versión utiliza las imágenes DENTRO de la carpeta imagenes.
+NO mezcles estos archivos con los del repositorio que quedó con errores.
+
+1) Creá un repositorio público NUEVO, por ejemplo nova-arcadia-final.
+2) En el repositorio nuevo, Add file > Upload files.
+3) Descomprimí este ZIP. Arrastrá TODOS los archivos y la carpeta imagenes al área de carga.
+   Comprobá que aparezcan rutas como imagenes/nova_arcadia_panorama.webp.
+4) Commit changes.
+5) Settings > Pages > Deploy from a branch > main > /(root) > Save.
+6) Esperá a que Pages muestre la URL y abrila. Recargá con Ctrl+F5.
+
+NO subas el ZIP cerrado ni subas la carpeta NOVA_ARCADIA_LISTA_PARA_GITHUB como nivel adicional.
+El archivo index.html debe quedar en la raíz del repositorio y las imágenes en imagenes/.
+
+VERA: el juego ofrece respuestas locales de demostración si no funciona el Worker de Gemini. La conexión real necesita probarse por separado.

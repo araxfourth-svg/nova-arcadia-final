@@ -1,0 +1,7 @@
+IMÁGENES DE NOVA ARCADIA
+
+Descomprimí este ZIP y subí los 22 archivos .svg a la carpeta imagenes/ de tu repositorio GitHub, reemplazando los SVG anteriores. No borres logo.png.
+
+Los archivos conservan los mismos nombres que utiliza script.js, por eso no hace falta modificar código.
+
+Estas escenas se construyeron a partir de una lámina con 12 ilustraciones originales. Algunas escenas reutilizan ilustraciones con encuadres diferentes; no son 22 ilustraciones independientes.
